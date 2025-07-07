@@ -1,6 +1,6 @@
 # Custom Memory Manager in C
 
-This is a school project developed for the **Programming in C** course. The project implements a simplified version of dynamic memory management using a **custom memory allocator** with support for thread-safety, best-fit allocation, memory resizing, and coalescing of free blocks — all built using a **custom linked list** structure.
+This is a school project developed for the **Programming in C** course. The project implements a simplified version of dynamic memory management using a **custom memory allocator** with support for thread-safety, best-fit allocation, memory resizing, and coalescing of free blocks all built using a **custom linked list** structure.
 
 ---
 
